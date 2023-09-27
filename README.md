@@ -27,12 +27,12 @@ Filtering and sorting by color; conditional formatting tasks; deleting duplicate
 <br>
 <br>
 
-## 6. File ‘Task_6’
+## 6. File ‘Task_6’ (pivot tables/diagrams)
 Pivot tables tasks; pivot diagram.
 <br>
 <br>
 
-## 7. File ‘Task_7’
+## 7. File ‘Task_7’ (array formulas)
 1. Creating and using array formulas for filling the table.
 2. Array formulas with some other functions.
 3. Redirecting array formulas.
