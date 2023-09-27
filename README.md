@@ -31,3 +31,14 @@ Filtering and sorting by color; conditional formatting tasks; deleting duplicate
 Pivot tables tasks; pivot diagram.
 <br>
 <br>
+
+## 7. File ‘Task_7’
+1. Creating and using array formulas for filling the table.
+2. Array formulas with some other functions.
+3. Redirecting array formulas.
+4. Array formulas with functions ЕСЛИ, МИН, МАКС.
+5. Array formulas with functions ЕСЛИОШИБКА, МИН, МАКС.
+6. Array formulas with Name Manager functions.
+7. Array formulas with ИНДЕКС and ПОИСКПОЗ functions, concatenation, Name Manager, drop-down lists.
+<br>
+<br>
