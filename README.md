@@ -42,6 +42,7 @@ Pivot tables tasks; pivot diagram.
 7. Array formulas with ИНДЕКС and ПОИСКПОЗ functions, concatenation, Name Manager, drop-down lists.
 <br>
 <br>
+
 ## 8. File ‘Task_8’ (Advanced filtering, ‘What if’ analysis (Goal Seek, Scenario Manager))
 1. Advanced filtering with conditions table (ex. 1).
 2. Advanced filtering with conditions table (ex. 2).
@@ -49,6 +50,3 @@ Pivot tables tasks; pivot diagram.
 4. ‘What if’ analysis: Goal Seek (ex. 2).
 5. ‘What if’ analysis: Scenario Manager (ex. 1).
 6. ‘What if’ analysis: Scenario Manager (ex. 2).
-<br>
-<br>
-
