@@ -50,7 +50,6 @@ Pivot tables tasks; pivot diagram.
 5. ‘What if’ analysis: Scenario Manager (ex. 1).
 6. ‘What if’ analysis: Scenario Manager (ex. 2).
 <br>
-<br>
 
 ## 9. File ‘Task_9’ (‘What if’ analysis (Data Table), Solver)
 1. Data Table (ex. 1): Planning loan payments
