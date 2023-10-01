@@ -58,3 +58,12 @@ Pivot tables tasks; pivot diagram.
 4. Solver (ex. 2): Budget optimization taking advertising into account
 <br>
 <br>
+
+## 10. File ‘Task_10’ (Forecasting: Linear Regression, Exponential Smoothing, Multivariate Approach)
+1. Predicting data of sales and building linear trend diagrams.
+2. Predicting profit data with linear regression.
+3. Predicting profit data with exponential smoothing.
+4. Multivariate forecasting (ex. 1): volume of sales.
+5. Multivariate forecasting (ex. 2): volume of profit data.
+<br>
+<br>
