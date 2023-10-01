@@ -57,7 +57,6 @@ Pivot tables tasks; pivot diagram.
 3. Solver (ex. 1): Transporting task.
 4. Solver (ex. 2): Budget optimization taking advertising into account
 <br>
-<br>
 
 ## 10. File ‘Task_10’ (Forecasting: Linear Regression, Exponential Smoothing, Multivariate Approach)
 1. Predicting data of sales and building linear trend diagrams.
