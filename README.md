@@ -66,6 +66,7 @@ Pivot tables tasks; pivot diagram.
 5. Multivariate forecasting (ex. 2): volume of profit data.
 <br>
 <br>
+
 ## 11. File ‘Task_11’ (Advanced Visualization)
 1. Sparklines (ex. 1): separate charts.
 2. Sparklines (ex. 2): table usage.
