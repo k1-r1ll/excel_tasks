@@ -75,3 +75,10 @@ Pivot tables tasks; pivot diagram.
 6. Combined charts.
 7. Thermometer chart.
 8. Dynamic chart.
+<br>
+
+## 12. File ‘Task_12’ (External links to the other Date Bases and files)
+1. Month report: filling report for November.
+2. Month report: filling report for December.
+3. Annual report: creating automatically updated Annual report using external links to the other tables.
+<br>
