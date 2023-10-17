@@ -82,3 +82,11 @@ Pivot tables tasks; pivot diagram.
 2. Month report: filling report for December.
 3. Annual report: creating automatically updated Annual report using external links to the other tables.
 <br>
+
+## 13. File ‘Task_13’ (VBA and Macros Creating)
+1. Creating macros: autofilling column, creating random data, formatting column and numeric data.
+<br>
+
+## 14. File ‘Task_14’ (VBA and Macros Creating)
+1. Creating macros and macros buttons: formatting name data and phone numbers.
+<br>
